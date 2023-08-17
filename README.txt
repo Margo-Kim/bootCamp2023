@@ -11,7 +11,8 @@ using 'git init'
 
 Steps up to this point (Point B, 11:03 am):
 - Git diff : Through git diff, we checked the updated txt inside README.txt
-- Git log : checked our logging
-- .gitignore : wrote down the files to be ignored (git add . is for all of the files)
+(show changes to the specific file since its last change)
+- Git log : checked our logging (Show the commit history (meassages and hashes) and dates/author with messages indicating the changes) 
+- .gitignore : wrote down the files to be ignored (git add . is for all of the files) Sometimes it is really nice to be able to 'git add /'. this means that files in the gitignore are ignored.
 
  
