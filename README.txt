@@ -1,3 +1,11 @@
+Step up to <this> point (Point E, 2:25pm):
+- made changes to readme and saved changes
+- add, commit 
+- git push <- just this because we already tracking (meaning that the branch was created via pull/clone from GH)
+- wen back to GH - big green button for compare/PR. clicked it. Filled out info.
+- (Somebody else should pull the branch and review it)
+- Merge pull request, delete branch
+
 Steps up to this point (Point A, 10:31 am):
 - Created some files
 - Created a directory
