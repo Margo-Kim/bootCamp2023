@@ -15,4 +15,9 @@ Steps up to this point (Point B, 11:03 am):
 - Git log : checked our logging (Show the commit history (meassages and hashes) and dates/author with messages indicating the changes) 
 - .gitignore : wrote down the files to be ignored (git add . is for all of the files) Sometimes it is really nice to be able to 'git add /'. this means that files in the gitignore are ignored.
 
- 
+Steps on the this point (Point C): 
+- we git status'ed to make sure we were on the branch
+- Now we're working and making changes
+- We will add commit like noraml to the branch
+- Swicth to main
+_
