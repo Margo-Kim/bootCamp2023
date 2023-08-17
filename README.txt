@@ -8,3 +8,10 @@ using 'git init'
 - We added all the files that we wanted to version to the staging area(readme, 2 nbs) using ' git add'
 - We committed the changes in the staging area.
 - After running git status, we saw that the 3 files were created
+
+Steps up to this point (Point B, 11:03 am):
+- Git diff : Through git diff, we checked the updated txt inside README.txt
+- Git log : checked our logging
+- .gitignore : wrote down the files to be ignored (git add . is for all of the files)
+
+ 
